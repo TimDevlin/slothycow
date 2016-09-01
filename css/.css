@@ -1,0 +1,10 @@
+
+
+.clickme {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickme:hover {
+  text-decoration: underline;
+}
